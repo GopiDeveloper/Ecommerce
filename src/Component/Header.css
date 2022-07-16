@@ -1,0 +1,43 @@
+body{
+    margin: auto;
+}
+
+#header {
+    height: 60px;
+    background-color: #d1a292;
+}
+#brand{
+    float:left;
+    margin-left:5%;
+    font-size:30px;
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.social{
+    float:right;
+    margin-right:10%
+}
+
+.socialIcon{
+    height:50px;
+    width:50px
+}
+
+.btn{
+    width:100px !important
+}
+#back{
+    align-items: center;
+    
+}
+.ima{ 
+    float:left;
+    width:130px;
+    height:100%;
+    border-radius: 5px;
+}
+#naa{
+    width:130px;
+    height:100%;
+    border-radius: 5px;
+}
